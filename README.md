@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+[QdabuliuQ];Frontend+Developer;React+%26+Vue+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+QdabuliuQ;Frontend+Developer;React+%26+Vue+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 ---
@@ -30,12 +30,12 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QdabuliuQ&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QdabuliuQ&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=0e75b6&style=flat" alt="访问计数器" />
+  <img src="https://komarev.com/ghpvc/?username=QdabuliuQ&label=Profile%20views&color=0e75b6&style=flat" alt="访问计数器" />
 </p>
