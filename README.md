@@ -30,12 +30,10 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QdabuliuQ&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QdabuliuQ&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=QdabuliuQ&label=Profile%20views&color=0e75b6&style=flat" alt="访问计数器" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QdabuliuQ&label=Profile%20views&color=0e75b6&style=flat" alt="访问计数器" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QdabuliuQ&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QdabuliuQ&layout=compact&theme=radical&hide_border=true" />
 </p>
