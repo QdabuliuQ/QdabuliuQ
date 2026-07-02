@@ -25,11 +25,4 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QdabuliuQ&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QdabuliuQ&layout=compact&theme=radical&hide_border=true" />
-</p>
+[![GitHub Roast](https://ghfind.com/api/card/QdabuliuQ?theme=dark)](https://ghfind.com/u/QdabuliuQ)
