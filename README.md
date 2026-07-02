@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+QdabuliuQ;Frontend+Developer;React+%26+Vue+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
----
-
 ### 👨‍💻 关于我
 
 - 🎯 专注于 **前端工程化** 与 **用户体验优化**
@@ -11,8 +9,6 @@
 - 🚀 服务端渲染（**Next.js**）和全栈 **Node.js** 开发经验
 - 💅 设计系统与 **Tailwind CSS** 深度用户
 - 🌱 目前正在学习 **WebAssembly**, **Go** ...
-
----
 
 ### 🧰 技术栈
 
