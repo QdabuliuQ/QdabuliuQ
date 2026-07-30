@@ -8,7 +8,7 @@
 - 🛠️ 日常使用 **React** / **Vue** + **TypeScript** 构建应用
 - 🚀 服务端渲染（**Next.js**）和全栈 **Node.js** 开发经验
 - 💅 设计系统与 **Tailwind CSS** 深度用户
-- 🌱 目前正在学习 **WebAssembly**, **Go** ...
+- 🌱 目前正在学习 **Python**, **SQLite** ...
 
 ### 🧰 技术栈
 
@@ -20,5 +20,3 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
-
-[![GitHub Roast](https://ghfind.com/api/card/QdabuliuQ?theme=dark)](https://ghfind.com/u/QdabuliuQ)
